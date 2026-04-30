@@ -3,7 +3,7 @@ layout: post
 title: "Weight-Activation Duality in Linear Intent Probes"
 description: "Auditing the Topological Belief Monitor across prompted and weight-poisoned backdoors."
 date: 2026-03-15
-tags:[LLMs, Representation Engineering, AI Alignment]
+tags: [LLMs, Representation Engineering, AI Alignment]
 comments: false
 share: false
 ---
