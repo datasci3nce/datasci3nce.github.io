@@ -3,7 +3,7 @@ layout: post
 title: "The Logic Ring: Causal Geometry in an Alg-Zoo RNN"
 description: "Refuting the sparse circuit hypothesis using topological data analysis and causal ablation."
 date: 2026-04-20
-tags:[Mechanistic Interpretability, Dynamical Systems, Topology]
+tags: [Mechanistic Interpretability, Dynamical Systems, Topology]
 comments: false
 share: false
 ---
