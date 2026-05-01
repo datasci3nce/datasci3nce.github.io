@@ -6,12 +6,9 @@ highlighter: rouge
 paginate: 5
 language: 'en-uk'
 
-title: Kishore Kumar Mariappan
+name: Kishore Kumar Mariappan
 description: Research Scientist — AI Safety & Mechanistic Interpretability
 
-author:
-  name: Kishore Kumar Mariappan
-  bio: Research Scientist specializing in Causal Inference, Mechanistic Interpretability, and AI Safety.
 baseurl: ""
 url: "https://datasci3nce.github.io"
 
