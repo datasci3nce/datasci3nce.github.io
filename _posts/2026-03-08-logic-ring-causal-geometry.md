@@ -1,6 +1,5 @@
-﻿
----
-layout: page
+﻿---
+layout: post
 title: "The Logic Ring: Causal Geometry in an Alg-Zoo RNN"
 description: "Refuting the sparse circuit hypothesis using topological data analysis and causal ablation."
 date: 2026-03-08
@@ -9,7 +8,7 @@ comments: false
 share: false
 ---
 
-In late January 2026, the Alignment Research Center (ARC) published a blog post that posed a direct challenge to mechanistic interpretability: they released a set of tiny models—some with fewer than 1,500 parameters—that stubbornly resisted full understanding. One of them, a 432‑parameter RNN called \(M_{16,10}\), was trained on a continuous 2nd‑argmax task. ARC had traced a few neurons, found isolated subcircuits, but couldn’t turn that into a complete mechanistic estimate of the model’s accuracy. They asked whether someone could do better.
+In late January 2026, the Alignment Research Center (ARC) published a blog post that posed a direct challenge to mechanistic interpretability, they released a set of tiny models—some with fewer than 1,500 parameters—that stubbornly resisted full understanding. One of them, a 432‑parameter RNN called \(M_{16,10}\), was trained on a continuous 2nd‑argmax task. ARC had traced a few neurons, found isolated subcircuits, but couldn’t turn that into a complete mechanistic estimate of the model’s accuracy. They asked whether someone could do better.
 
 I decided to try. Not because I was certain I’d succeed, but because the problem genuinely interested me and seemed to reward a different kind of thinking. I had been working with dynamical systems, topology, and causal analysis in my own projects. Using LLMs as research assistants, I designed an eight‑phase investigation that I’m calling a **Topological Circuit Audit (TCA)**. What follows is an honest walk‑through of that process, what I found, and what I didn’t.
 
