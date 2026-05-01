@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: page
 title: "Seeing the Shadow: A Game-Theoretic Audit of Representational Erasure"
 description: "Why standard unlearning assumes too much, and how backup coalitions preserve latent knowledge in LLMs."
 date: 2026-04-30

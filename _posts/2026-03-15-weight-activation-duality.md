@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: page
 
 title: "What Linear Probes Actually See: An Exploratory Audit of Deception Detection"
 

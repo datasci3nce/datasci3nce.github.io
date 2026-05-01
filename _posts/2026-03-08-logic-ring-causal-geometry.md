@@ -1,11 +1,12 @@
-﻿---
-layout: post  
-title: “The Logic Ring: Causal Geometry in an Alg‑Zoo RNN”  
-description: “Refuting the sparse circuit hypothesis using topological data analysis and causal ablation.”  
-date: 2026-03-08  
-tags: [Mechanistic Interpretability, Dynamical Systems, Topology]  
-comments: false  
-share: false  
+﻿
+---
+layout: page
+title: "The Logic Ring: Causal Geometry in an Alg-Zoo RNN"
+description: "Refuting the sparse circuit hypothesis using topological data analysis and causal ablation."
+date: 2026-03-08
+tags: [Mechanistic Interpretability, Dynamical Systems, Topology]
+comments: false
+share: false
 ---
 
 In late January 2026, the Alignment Research Center (ARC) published a blog post that posed a direct challenge to mechanistic interpretability: they released a set of tiny models—some with fewer than 1,500 parameters—that stubbornly resisted full understanding. One of them, a 432‑parameter RNN called \(M_{16,10}\), was trained on a continuous 2nd‑argmax task. ARC had traced a few neurons, found isolated subcircuits, but couldn’t turn that into a complete mechanistic estimate of the model’s accuracy. They asked whether someone could do better.

@@ -35,7 +35,11 @@ plugins: [jekyll-paginate]
 # Post's page cover as a per-post basis _posts/...
 # Disqus comments as a per-post basis
 # ...
-
+navigation:
+  - label: "Home"
+    url: "/"
+  - label: "Archive (2018)"
+    url: "/_archive/energeon.html"
 
 # Settings for builing master branch with travis-ci
 # with jekyll-travis
