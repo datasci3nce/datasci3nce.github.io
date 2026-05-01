@@ -44,3 +44,5 @@ Just as with my previous RNN audits, I want to be entirely clear about the limit
 To make this a truly scalable evaluation metric for AI safety, the next step is to replace the standard Gram-Schmidt depletion with Randomized Numerical Linear Algebra (RandNLA) and subspace recycling. I have prototyped these streaming NLA techniques on time-varying PDE systems, and I hypothesize that they could be used to track "backup coalitions" dynamically during large-scale model training. 
 
 True representational erasure cannot be verified by behavioral compliance alone. We have to learn how to measure the shadow.
+
+Full code is on [GitHub](https://github.com/datasci3nce/typosquatting-geometric-audit). Feedback, corrections, and collaboration welcome.
