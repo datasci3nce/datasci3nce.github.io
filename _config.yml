@@ -6,11 +6,13 @@ highlighter: rouge
 paginate: 5
 language: 'en-uk'
 
-# Website info
-# name: 'Kishore Kumar Mariappan'
-# description: "Research Scientist in Machine Learning & AI Safety"
-title: Kishore Kumar Mariappan
-description: Research Scientist — AI Safety & Mechanistic Interpretability
+title: "Kishore Kumar Mariappan"
+description: "Research Scientist — AI Safety & Mechanistic Interpretability"
+
+# Make sure this 'author' section is present
+author:
+  name: "Kishore Kumar Mariappan"
+  bio: "Research Scientist specializing in Causal Inference, Mechanistic Interpretability, and AI Safety."
 baseurl: ""
 url: "https://datasci3nce.github.io"
 
